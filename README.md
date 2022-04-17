@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<a href="https://625c28b893d2616ccad8a59b--heroic-begonia-f86b8c.netlify.app/" target="_blank">View Deployment</a>
+Click to <a href="https://625c28b893d2616ccad8a59b--heroic-begonia-f86b8c.netlify.app/">View Deployment</a>
 
 ## Available Scripts
 
